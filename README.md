@@ -1,3 +1,87 @@
+# 🍽️ Yummify
+
+**Yummify** is a simple and visually appealing recipe app built using **React**. It fetches recipes from the [Spoonacular API](https://spoonacular.com/food-api) and presents them in a smooth and modern UI.
+
+## 🌟 Features
+
+- 🔍 Search and browse recipes 
+- 📸 Visually rich **recipe cards** with images and titles
+- 🎯 Built with **React Router** for seamless navigation
+- 💅 Styled using **styled-components**
+
+
+## 🧰 Tech Stack
+
+- React.js : Frontend library for building the user interface using components.
+- React Router : For handling dynamic routing between recipe categories and search results.
+- Styled Components : To style React components using CSS-in-JS with scoped styling.
+- React Icons : For adding intuitive and visually appealing icons.
+- Spoonacular Recipe API : Used to fetch real-time recipe data including ingredients, cuisines, and instructions.
+
+
+
+## 🚀 Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/YuRiKaPraJaPaTi/yummify.git
+cd yummify
+```
+
+### 2. Install Dependencies
+
+```bash
+npm install
+```
+
+### 3. Add Your API Key
+
+Create a `.env` file in the root and add your Spoonacular API key:
+
+```
+REACT_APP_API_KEY=your_spoonacular_api_key
+```
+
+### 4. Run the App
+
+```bash
+npm start
+```
+
+Visit `http://localhost:3000` to explore Yummify.
+
+## 🌐 Deployment
+
+This project can be deployed using **GitHub Pages**.
+
+To deploy:
+
+```bash
+npm run build
+npm run deploy
+```
+
+<!-- ## 📸 Preview
+
+_Include a screenshot or a short screen recording here if possible._
+
+## 📄 License
+
+MIT License © 2025 [Your Name]
+
+--- -->
+
+**Enjoy exploring recipes with Yummify!**
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
