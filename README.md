@@ -74,6 +74,27 @@ MIT License © 2025 [Your Name]
 
 **Enjoy exploring recipes with Yummify!**
 
+## 📷 Project Screenshots
+
+1. **Home Page**  
+   ![Home Page](./ss/ss1.png)  
+   *Figure 1: The main landing screen *
+
+2. **Cuisine Type**  
+   ![Cuisine Type](./ss/ss2.png)  
+   *Figure 2: Italian cuisine select*
+
+3. **Search**  
+   ![Search](./ss/task-ss3.png)  
+   *Figure 3: Searched for mango*
+
+4. **Recipe Instructions**  
+   ![Recipe Instructions](./ss/edit-ss4.png)  
+   *Figure 4: Showing recipe instructions*
+
+5. **Recipe Ingredients**  
+   ![Recipe Ingredients](./ss/ss5.png)  
+   *Figure 5: Showing recipe ingredients*
 
 
 
