@@ -17,9 +17,11 @@ function Search() {
     <CenterWrapper>
       <FormStyle onSubmit={submitHandler}>
       <FaSearch></FaSearch>
-      <input type="text" 
-        value={input}
+      <input 
         onChange={(e) => setInput(e.target.value)}
+        type="text" 
+        value={input}
+        
       />
    
     </FormStyle>
@@ -31,7 +33,7 @@ const CenterWrapper = styled.div`
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 20vh; /* Full screen height */
+  height: 15vh; /* Full screen height */
   position: static;
 
   
