@@ -85,11 +85,11 @@ MIT License © 2025 [Your Name]
    *Figure 2: Italian cuisine select*
 
 3. **Search**  
-   ![Search](./ss/task-ss3.png)  
+   ![Search](./ss/ss3.png)  
    *Figure 3: Searched for mango*
 
 4. **Recipe Instructions**  
-   ![Recipe Instructions](./ss/edit-ss4.png)  
+   ![Recipe Instructions](./ss/ss4.png)  
    *Figure 4: Showing recipe instructions*
 
 5. **Recipe Ingredients**  
