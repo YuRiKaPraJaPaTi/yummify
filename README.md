@@ -78,7 +78,7 @@ MIT License © 2025 [Your Name]
 
 1. **Home Page**  
    ![Home Page](./ss/ss1.png)  
-   *Figure 1: The main landing screen *
+   *Figure 1: The main landing screen*
 
 2. **Cuisine Type**  
    ![Cuisine Type](./ss/ss2.png)  
