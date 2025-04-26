@@ -10,18 +10,12 @@ function Searched() {
   let params = useParams();
 
   const getSearched = async (name) => {
-    const check = localStorage.getItem("searchedRecipes");
-
-    if(check){
-      setSearchedRecipes(JSON.parse(check));
-    }
-    else{
+   
     const data = await  fetch(`https://api.spoonacular.com/recipes/complexSearch?apiKey=${process.env.REACT_APP_API_KEY}&query=${name}`);
     const recipes = await data.json();
 
-    localStorage.setItem("searchedRecipes",JSON.stringify(recipes.results));
     setSearchedRecipes(recipes.results);
-    }
+    
   };
 
   useEffect(() => {
